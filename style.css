@@ -1,0 +1,47 @@
+p{
+    margin:0;
+}
+.txtalgncenter{
+    text-align: center;
+}
+.marginauto{
+    margin:auto;
+}
+body{
+    margin:0;
+}
+header{
+    width:100%;
+    background-color: blue;
+    height:10rem;
+}
+section{
+    background-color: red;
+}
+main{
+    margin:10%;
+    background-color: grey;
+    height:10rem;
+
+}
+footer{
+    width:100%;
+    background-color: green;
+    height:10rem;
+
+}
+.trentetrois{
+    width:33.333%;
+}
+.flexrow{
+    display: flex;
+}
+.jscontentcenter{
+    justify-content: center;
+}
+.jscontentend{
+    justify-content: flex-end;
+}
+.alitemscenter{
+    align-items: center;
+}
